@@ -30,6 +30,7 @@ css/jquery.ui.theme.css -text
 images/jqueryui-128.png -text
 /jqueryui_pipelines.php -text
 lang/paquet-jqueryui.xml -text
+lang/paquet-jqueryui_sk.php -text
 /paquet.xml -text
 prive/javascript/ui/i18n/jquery-ui-i18n.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-af.js -text
