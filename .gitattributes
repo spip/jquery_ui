@@ -49,6 +49,7 @@ prive/javascript/ui/i18n/jquery.ui.datepicker-af.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ar-DZ.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ar.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-az.js -text
+prive/javascript/ui/i18n/jquery.ui.datepicker-be.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-bg.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-bs.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ca.js -text
@@ -67,6 +68,7 @@ prive/javascript/ui/i18n/jquery.ui.datepicker-eu.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fa.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fi.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fo.js -text
+prive/javascript/ui/i18n/jquery.ui.datepicker-fr-CA.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fr-CH.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fr.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-gl.js -text
@@ -83,14 +85,17 @@ prive/javascript/ui/i18n/jquery.ui.datepicker-ka.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-kk.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-km.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ko.js -text
+prive/javascript/ui/i18n/jquery.ui.datepicker-ky.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-lb.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-lt.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-lv.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-mk.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ml.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ms.js -text
+prive/javascript/ui/i18n/jquery.ui.datepicker-nb.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-nl-BE.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-nl.js -text
+prive/javascript/ui/i18n/jquery.ui.datepicker-nn.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-no.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-pl.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-pt-BR.js -text
