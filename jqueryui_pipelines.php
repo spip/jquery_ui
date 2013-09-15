@@ -29,7 +29,7 @@ function jqueryui_jquery_plugins($plugins){
  * @param: $flux 
  * @return: $flux
  */
-function jqueryui_insert_head($flux) {
+function jqueryui_insert_head_css($flux) {
 	/**
 	 * Doit on ne pas insérer les css (défini depuis un autre plugin) ?
 	 */
