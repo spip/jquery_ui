@@ -1,5 +1,4 @@
 * text=auto !eol
-css/images/animated-overlay.gif -text svneol=unset#image/gif
 css/images/ui-bg_flat_0_aaaaaa_40x100.png -text
 css/images/ui-bg_flat_75_ffffff_40x100.png -text
 css/images/ui-bg_glass_55_fbf9ee_1x400.png -text
@@ -22,15 +21,12 @@ css/jquery.ui.button.css -text
 css/jquery.ui.core.css -text
 css/jquery.ui.datepicker.css -text
 css/jquery.ui.dialog.css -text
-css/jquery.ui.menu.css -text
 css/jquery.ui.progressbar.css -text
 css/jquery.ui.resizable.css -text
 css/jquery.ui.selectable.css -text
 css/jquery.ui.slider.css -text
-css/jquery.ui.spinner.css -text
 css/jquery.ui.tabs.css -text
 css/jquery.ui.theme.css -text
-css/jquery.ui.tooltip.css -text
 images/jqueryui-128.png -text
 /jqueryui_pipelines.php -text
 lang/paquet-jqueryui.xml -text
@@ -41,7 +37,6 @@ lang/paquet-jqueryui_es.php -text
 lang/paquet-jqueryui_it.php -text
 lang/paquet-jqueryui_lb.php -text
 lang/paquet-jqueryui_nl.php -text
-lang/paquet-jqueryui_pt.php -text
 lang/paquet-jqueryui_ru.php -text
 lang/paquet-jqueryui_sk.php -text
 /paquet.xml -text
@@ -50,7 +45,6 @@ prive/javascript/ui/i18n/jquery.ui.datepicker-af.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ar-DZ.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ar.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-az.js -text
-prive/javascript/ui/i18n/jquery.ui.datepicker-be.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-bg.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-bs.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ca.js -text
@@ -69,7 +63,6 @@ prive/javascript/ui/i18n/jquery.ui.datepicker-eu.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fa.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fi.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fo.js -text
-prive/javascript/ui/i18n/jquery.ui.datepicker-fr-CA.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fr-CH.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-fr.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-gl.js -text
@@ -86,17 +79,14 @@ prive/javascript/ui/i18n/jquery.ui.datepicker-ka.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-kk.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-km.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ko.js -text
-prive/javascript/ui/i18n/jquery.ui.datepicker-ky.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-lb.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-lt.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-lv.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-mk.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ml.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-ms.js -text
-prive/javascript/ui/i18n/jquery.ui.datepicker-nb.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-nl-BE.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-nl.js -text
-prive/javascript/ui/i18n/jquery.ui.datepicker-nn.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-no.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-pl.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-pt-BR.js -text
@@ -120,6 +110,20 @@ prive/javascript/ui/i18n/jquery.ui.datepicker-zh-CN.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-zh-HK.js -text
 prive/javascript/ui/i18n/jquery.ui.datepicker-zh-TW.js -text
 prive/javascript/ui/jquery-ui.js -text
+prive/javascript/ui/jquery.effects.blind.js -text
+prive/javascript/ui/jquery.effects.bounce.js -text
+prive/javascript/ui/jquery.effects.clip.js -text
+prive/javascript/ui/jquery.effects.core.js -text
+prive/javascript/ui/jquery.effects.drop.js -text
+prive/javascript/ui/jquery.effects.explode.js -text
+prive/javascript/ui/jquery.effects.fade.js -text
+prive/javascript/ui/jquery.effects.fold.js -text
+prive/javascript/ui/jquery.effects.highlight.js -text
+prive/javascript/ui/jquery.effects.pulsate.js -text
+prive/javascript/ui/jquery.effects.scale.js -text
+prive/javascript/ui/jquery.effects.shake.js -text
+prive/javascript/ui/jquery.effects.slide.js -text
+prive/javascript/ui/jquery.effects.transfer.js -text
 prive/javascript/ui/jquery.ui.accordion.js -text
 prive/javascript/ui/jquery.ui.autocomplete.js -text
 prive/javascript/ui/jquery.ui.button.js -text
@@ -128,21 +132,6 @@ prive/javascript/ui/jquery.ui.datepicker.js -text
 prive/javascript/ui/jquery.ui.dialog.js -text
 prive/javascript/ui/jquery.ui.draggable.js -text
 prive/javascript/ui/jquery.ui.droppable.js -text
-prive/javascript/ui/jquery.ui.effect-blind.js -text
-prive/javascript/ui/jquery.ui.effect-bounce.js -text
-prive/javascript/ui/jquery.ui.effect-clip.js -text
-prive/javascript/ui/jquery.ui.effect-drop.js -text
-prive/javascript/ui/jquery.ui.effect-explode.js -text
-prive/javascript/ui/jquery.ui.effect-fade.js -text
-prive/javascript/ui/jquery.ui.effect-fold.js -text
-prive/javascript/ui/jquery.ui.effect-highlight.js -text
-prive/javascript/ui/jquery.ui.effect-pulsate.js -text
-prive/javascript/ui/jquery.ui.effect-scale.js -text
-prive/javascript/ui/jquery.ui.effect-shake.js -text
-prive/javascript/ui/jquery.ui.effect-slide.js -text
-prive/javascript/ui/jquery.ui.effect-transfer.js -text
-prive/javascript/ui/jquery.ui.effect.js -text
-prive/javascript/ui/jquery.ui.menu.js -text
 prive/javascript/ui/jquery.ui.mouse.js -text
 prive/javascript/ui/jquery.ui.position.js -text
 prive/javascript/ui/jquery.ui.progressbar.js -text
@@ -150,7 +139,5 @@ prive/javascript/ui/jquery.ui.resizable.js -text
 prive/javascript/ui/jquery.ui.selectable.js -text
 prive/javascript/ui/jquery.ui.slider.js -text
 prive/javascript/ui/jquery.ui.sortable.js -text
-prive/javascript/ui/jquery.ui.spinner.js -text
 prive/javascript/ui/jquery.ui.tabs.js -text
-prive/javascript/ui/jquery.ui.tooltip.js -text
 prive/javascript/ui/jquery.ui.widget.js -text
