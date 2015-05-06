@@ -50,6 +50,7 @@ lang/paquet-jqueryui_pt.php -text
 lang/paquet-jqueryui_pt_br.php -text
 lang/paquet-jqueryui_ru.php -text
 lang/paquet-jqueryui_sk.php -text
+lang/paquet-jqueryui_uk.php -text
 /paquet.xml -text
 prive/javascript/ui/accordion.js -text
 prive/javascript/ui/autocomplete.js -text
