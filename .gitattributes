@@ -104,3 +104,5 @@ prive/javascript/ui/i18n/datepicker-vi.js -text
 prive/javascript/ui/i18n/datepicker-zh-CN.js -text
 prive/javascript/ui/i18n/datepicker-zh-HK.js -text
 prive/javascript/ui/i18n/datepicker-zh-TW.js -text
+prive/javascript/ui/jquery-ui.js -text
+prive/javascript/ui/jquery-ui.min.js -text
