@@ -1,6 +1,6 @@
 <?php
 // This is a SPIP language file  --  Ceci est un fichier langue de SPIP
-// Fichier source, a modifier dans svn://zone.spip.org/spip-zone/_core_/plugins/jquery_ui/lang/
+// Fichier source, a modifier dans svn://zone.spip.org/spip-zone/_core_/plugins/jquery_ui/lang
 if (!defined('_ECRIRE_INC_VERSION')) {
 	return;
 }

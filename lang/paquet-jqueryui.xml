@@ -1,4 +1,10 @@
-<traduction module="paquet-jqueryui" gestionnaire="salvatore" url="https://trad.spip.net" source="svn://zone.spip.org/spip-zone/_core_/plugins/jquery_ui/lang/" reference="fr">
+<traduction
+	module="paquet-jqueryui"
+	id="paquet-jqueryui--jquery_ui-9539f"
+	gestionnaire="salvatore"
+	url="https://trad.spip.net"
+	source="svn://zone.spip.org/spip-zone/_core_/plugins/jquery_ui/lang"
+	reference="fr">
 	<langue code="ar" url="https://trad.spip.net/tradlang_module/paquet-jqueryui?lang_cible=ar" total="2" traduits="2" relire="0" modifs="0" nouveaux="0" pourcent="100.00">
 		<traducteur nom="George" lien="https://trad.spip.net/auteur/جورج-قندلفت" />
 	</langue>
@@ -16,8 +22,7 @@
 		<traducteur nom="dani" lien="https://trad.spip.net/auteur/dani" />
 		<traducteur nom="kent1" lien="https://trad.spip.net/auteur/kent1" />
 	</langue>
-	<langue code="fr" url="https://trad.spip.net/tradlang_module/paquet-jqueryui?lang_cible=fr" total="2" traduits="2" relire="0" modifs="0" nouveaux="0" pourcent="100.00">
-	</langue>
+	<langue code="fr" url="https://trad.spip.net/tradlang_module/paquet-jqueryui?lang_cible=fr" total="2" traduits="2" relire="0" modifs="0" nouveaux="0" pourcent="100.00" />
 	<langue code="fr_fem" url="https://trad.spip.net/tradlang_module/paquet-jqueryui?lang_cible=fr_fem" total="2" traduits="2" relire="0" modifs="0" nouveaux="0" pourcent="100.00">
 		<traducteur nom="b_b" lien="https://trad.spip.net/auteur/b_b" />
 		<traducteur nom="denisb" lien="https://trad.spip.net/auteur/denisb" />
