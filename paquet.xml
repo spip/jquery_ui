@@ -3,7 +3,7 @@
 	categorie="outil"
 	version="1.14.2"
 	etat="stable"
-	compatibilite="[4.0.0;4.0.*]"
+	compatibilite="[4.0.0;4.1.*]"
 	logo="images/jqueryui-128.png"
 >
 
