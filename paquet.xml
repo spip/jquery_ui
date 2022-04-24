@@ -2,8 +2,8 @@
 	prefix="jqueryui"
 	categorie="outil"
 	version="1.15.0-dev"
-	etat="dev"
-	compatibilite="[4.1.0;4.2.*]"
+	etat="stable"
+	compatibilite="[4.1.0;4.1.*]"
 	logo="images/jqueryui-xx.svg"
 >
 
